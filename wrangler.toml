@@ -1,4 +1,4 @@
-name = "wk-auto-update"
+name = "nameless"
 main = "_worker.js"
 compatibility_date = "2025-08-01"
 usage_model = "bundled"
